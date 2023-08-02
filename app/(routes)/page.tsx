@@ -13,13 +13,13 @@ export default function Home() {
             <br className="hidden sm:inline" />
             Shadcn-ui e TailwindCSS.
           </h1>
-          <ul className="list-disc text-lg text-muted-foreground">
+          <ul className="text-lg text-muted-foreground">
             <li>Next.js 13 App router</li>
             <li>TailwindCSS</li>
             <li>Lucide-react Icons</li>
             <li>Modo dark/light com next-themes</li>
             <li>TailwindCSS class sorting e merging</li>
-            <li>Eslint + Prettier + </li>
+            <li>Eslint + Prettier</li>
           </ul>
         </div>
         <div className="flex gap-4">
